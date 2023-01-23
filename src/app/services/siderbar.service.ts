@@ -12,6 +12,8 @@ export class SiderbarService {
       { titulo: 'Main', url: '/' },
       { titulo: 'ProgressBar', url: 'progress' },
       { titulo: 'Graficas', url: 'grafical' },
+      { titulo: 'Promesas', url: 'promesas' },
+      { titulo: 'Rxjs', url: 'rxjs' },
     ]
   }
 ];
